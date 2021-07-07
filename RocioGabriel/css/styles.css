@@ -1,0 +1,30 @@
+.titulo{
+    text-align: center;
+    
+    
+}
+body{
+    background-color: rgb(195, 240, 210);
+}
+.cuerpo{
+    background-color: rgb(195, 240, 210);
+    margin-bottom: 20pt;
+    padding-top: 10pt;
+}
+.contenido{
+    font-size: 13pt;
+    padding: 0 30pt 0 30pt;
+    font-style: italic;
+}
+.card{
+    padding-bottom: 20pt;
+}
+#resultado{
+    font-size: 18pt;
+    font-weight: bold;
+    color: rgb(71, 141, 0);
+}
+.titu{
+    background-color: rgb(195, 240, 210);
+    margin-bottom: 10pt;
+}
